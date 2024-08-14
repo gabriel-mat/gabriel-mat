@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gabriel-mat
 - 🌱 I’m a beginner learning about programming
-- 💡´Languages: C
+- 💡 Languages: C
